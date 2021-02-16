@@ -3,3 +3,4 @@
 
 <li><a href="Lab1/index.html">Lab1 - Hello World</a></li>
 <li><a href="LAB2/index2.html">Lab2 - Basic HTML Structure</a></li>
+<li><a href="Lab3/index.html">Lab3 - Basic HTML and HTML Semantics</a></li>
