@@ -8,3 +8,4 @@
 <li><a href="Midterm/index.html">Midterm - Mid-Term Project</a></li>
 <li><a href="Lab5/index.html">Lab5 - Responsive Design</a></li>
 <li><a href="Lab6/index.html">Lab6 - Responsive Design Pt2</a></li>
+<li><a href="Lab7/index.html">Lab7 - Random Video, Audio, and Table</a></li>
