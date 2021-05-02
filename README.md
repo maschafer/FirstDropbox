@@ -10,3 +10,4 @@
 <li><a href="Lab6/index.html">Lab6 - Responsive Design Pt2</a></li>
 <li><a href="Lab7/index.html">Lab7 - Random Video, Audio, and Table</a></li>
 <li><a href="Lab8/index.html">Lab8 - jQuery Demo</a></li>
+<li><a href="Final/index.html">Final- Last Lab</a></li>
